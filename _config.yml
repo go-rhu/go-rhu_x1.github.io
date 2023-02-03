@@ -19,7 +19,7 @@ avatar: https://img-blog.csdnimg.cn/2329137443a1407099802f99ad897995.png
 footer-links:
   dribbble:
   email:
-  facebook:beian.miit.gov.cn
+  facebook:
   flickr:
   github: go-rhu/go-rhu.github.io
   instagram:
@@ -31,7 +31,6 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   
-footer-content: "版权所有&copy; erhu co.ltd <a href=\"http://beian.miit.gov.cn/\">粤ICP备18058809号-1 </a>"
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -42,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:http://beian.miit.gov.cn/
+url:
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
